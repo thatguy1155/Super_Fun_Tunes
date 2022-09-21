@@ -22,7 +22,7 @@
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-material-design-icons": "^1.0.4",
     "sweetalert": "^2.1.2",
-    "vuetify": "^2.2.30",
+    "vuetify": "^2.6.10",
     "vuex": "^3.4.0"
   },
   "devDependencies": {}
