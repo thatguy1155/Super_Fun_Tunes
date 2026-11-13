@@ -6,7 +6,7 @@ const bodyParser = require("body-parser");
 
 //const config = require("./config/db");
 const app = express();
-//configure database and mongoose
+//configure database
 
 //get the db
 const db = require('./config/db.js')
